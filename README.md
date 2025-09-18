@@ -72,8 +72,8 @@ The system combines:
 ---
 
 ## Project Documents  
-- [Poster](docs/poster.png)  
-- [Report](docs/report.pdf)  
+- [Poster](docs/Poster.png)  
+- [Report](docs/Report.pdf)  
 
 ---
 
